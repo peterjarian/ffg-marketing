@@ -35,5 +35,5 @@ Monitor en beheer uw hydroponic systeem eenvoudig via onze gebruiksvriendelijke 
 
 Dit project was mogelijk gemaakt door samenwerking met:
 
-- **Stap Foods** - Onze opdrachtgever en kantinebeheerder, die verse en duurzame ingrediënten centraal stelt
+- **STAPFOODS** - Onze opdrachtgever en kantinebeheerder, die verse en duurzame ingrediënten centraal stelt
 - **Match-it** - Voor de koppeling tussen praktijk en innovatieve software en hardware ontwikkeling
