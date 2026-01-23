@@ -13,7 +13,7 @@ Wij zijn een multidisciplinair team van gepassioneerde studenten:
 - **Jorrit** - Vierdejaars student Network & System Engineering
 - **Oscar** - Derdejaars student Network & System Engineering
 - **Tom** - Vierdejaars student Innovative Development
-- **Chihan** - Tweedejaars student Innovative Development
+- **Cihan** - Tweedejaars student Innovative Development
 
 ## De Opdracht
 
