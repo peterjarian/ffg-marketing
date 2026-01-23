@@ -2,6 +2,8 @@
 
 > Een slimme en innovatieve manier voor het verbouwen van eigen groenten met behulp van hydroponics.
 
+> **Let op:** De instructies over hoe je kunt stemmen komen hier te staan zodra het stemmen open is. De QR-code verwijst naar deze website met de tekst "stem op ons" - dit is een voorvertoning. Zodra het stemmen open gaat, zullen hier de volledige steminstructies verschijnen.
+
 ## Over ons
 
 Wij zijn een multidisciplinair team van gepassioneerde studenten:
